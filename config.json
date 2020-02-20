@@ -1,8 +1,8 @@
 {
-  "token": "insert token here",
-  "channel": "insert channel id here",
-  "webhookid1": "insert webhook 1 url here",
-  "webhookid2": "insert webhook 2 url here",
-  "webhookid3": "insert webhook 3 url here",
+  "token": "AzkNohNStnpiDx6EYmZFFcDATsuGlgvk",
+  "channel": "679895877464490086",
+  "webhookid1": "https://discordapp.com/api/webhooks/679901703021002819/EhSY4uDuw28wjBzc85PnCa5pbY7RtUC0V1lxBiCqqi3rRBTQrm_cWIcQufxDGRdEapOw",
+  "webhookid2": "https://discordapp.com/api/webhooks/679902050360098902/bS_AD3zL6pJFanPgbFIo6P7IGU3eidAevhTYl-dHmMZ9LblEsdjJKwPbJFHypqv4v1KE",
+  "webhookid3": "https://discordapp.com/api/webhooks/679902116474650636/3iFxLLEjmhYVw7ZTMQ9S9nwYOWwVSQU2Y9WwBn-vixek8-kekdmgw0Ga4_Hwh0M8Vuv9",
   "logchannel":"false"
 }
